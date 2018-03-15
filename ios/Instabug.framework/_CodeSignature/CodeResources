@@ -6,11 +6,15 @@
 	<dict>
 		<key>Headers/Instabug.h</key>
 		<data>
-		FXGwngWRcYOFi0T4tL2KdxlGUjw=
+		KaktP0mCVLTY/kzvHoEBfHLBujs=
+		</data>
+		<key>IBGMessagesView.nib</key>
+		<data>
+		VeDjEaZy3owwQyOwXgk1Uiv4RZI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		j7YBrXxPdubzZ6bNCoQpUGSt9Ps=
+		KqaCwJToO7lEHDDH4uZxP+klduM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,11 +27,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FXGwngWRcYOFi0T4tL2KdxlGUjw=
+			KaktP0mCVLTY/kzvHoEBfHLBujs=
 			</data>
 			<key>hash2</key>
 			<data>
-			q5gMkf8yDUe0ic4LGgKu6eHW6DceEAnkLcLrx6H5/TA=
+			yzPKqqwzYv2dyr9Q/ZP/cI6xi+GOlkLBfdpLMpfJMkM=
+			</data>
+		</dict>
+		<key>IBGMessagesView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VeDjEaZy3owwQyOwXgk1Uiv4RZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			dLpb0Fsz9NfEgSgVx11bNIwqb9OPPr7qhHHn25beFkM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
