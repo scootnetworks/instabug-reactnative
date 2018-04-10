@@ -16,9 +16,9 @@
 		<data>
 		CATGAPHdtajDrDoxbUe5K9sbm+g=
 		</data>
-		<key>Instabug</key>
+		<key>Info.plist</key>
 		<data>
-		8WY8cUx5OUXGAPlO+L3FBmLgJ1A=
+		f5ui+xHp+1jOGzV7oHSpLBdvyQw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,17 +58,6 @@
 			<key>hash2</key>
 			<data>
 			o8ft/E0FbG1LmK8dN0JrbaeKYJUOgdWEK9YPC6t/06Y=
-			</data>
-		</dict>
-		<key>Instabug</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8WY8cUx5OUXGAPlO+L3FBmLgJ1A=
-			</data>
-			<key>hash2</key>
-			<data>
-			O2JvyIWxEllpzymbyqRCBteV/S/sqn6h0w1A60/4e7Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
