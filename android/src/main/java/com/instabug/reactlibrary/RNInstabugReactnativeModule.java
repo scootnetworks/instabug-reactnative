@@ -703,12 +703,17 @@ public class RNInstabugReactnativeModule extends ReactContextBaseJavaModule {
      * @see InstabugInvocationEvent
      */
     @ReactMethod
-    public void setInvocationEvent(String invocationEventValue) {
-        try {
-            mInstabug.changeInvocationEvent(getInvocationEventById(invocationEventValue));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+    public void setInvocationEvent(final String invocationEventValue) {
+        new Handler(Looper.getMainLooper()).post(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    mInstabug.changeInvocationEvent(getInvocationEventById(invocationEventValue));
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        });
     }
 
     private InstabugInvocationEvent getInvocationEventById(String invocationEventValue) {
